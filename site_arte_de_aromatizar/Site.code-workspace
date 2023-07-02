@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Ebac/Curso Site 1/Site"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "teste-Site"
+	}
+}
